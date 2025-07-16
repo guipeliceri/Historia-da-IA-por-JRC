@@ -18,9 +18,10 @@ O objetivo deste projeto é tornar o conhecimento sobre a fascinante história d
 O documento de 15 páginas está organizado nas seguintes seções principais:
 
 * **1. Definições e Classificações Principais:** O que é IA? Diferenças entre ANI, AGI e ASI, e os tipos de Machine Learning.
-* **2. A Era da Criação (1950-1970) e o Primeiro Inverno:** O nascimento da IA, os primeiros programas, o otimismo inicial e a grande crise de confiança e de financiamento.
-* **3. A Era da IA Simbólica (1970-1990):** O ressurgimento da IA com os Sistemas Especialistas e a razão pela qual essa abordagem também encontrou suas limitações.
+* **2. A Criação (1950-1970) e o Primeiro Inverno:** O nascimento da IA, os primeiros programas, o otimismo inicial e a grande crise de confiança e de financiamento.
+* **3. IA Simbólica (1970-1990):** O ressurgimento da IA com os Sistemas Especialistas e a razão pela qual essa abordagem também encontrou suas limitações.
 * **4. Machine Learning e Deep Learning:** A mudança de paradigma para uma abordagem orientada a dados, impulsionada pela ImageNet e pela AlexNet em 2012. além de abordar uma análise dos investimentos globais (EUA, China e Europa), os desafios éticos, os riscos (ataques adversários, deepfakes) e as propostas para o futuro da AGI.
+* **5. Resumo Geral:** Resumo sobre todo o conteúdo abordado.
 
 ## ✨ Principais Destaques do Relatório
 
