@@ -1,4 +1,4 @@
-# Historia-da-IA-por-JRC
+# Historia-da-IA-por-JRC-UE
 Tradução e leve resumo do excelente relatório do AI Watch da Comissão Europeia, evolução da IA ao longo da história
 
 # 📖 Resumo e Análise do Relatório sobre a Evolução da IA
