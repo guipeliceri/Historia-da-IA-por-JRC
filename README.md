@@ -49,7 +49,7 @@ Para ver uma cópia desta licença, visite [http://creativecommons.org/licenses/
 
 ## ✍️ Autor
 
-Resumo e análise realizados por **Guilherme Peliceri Faitarone**.
+Resumo e tradução realizados por **Guilherme Peliceri Faitarone**.
 
 * **LinkedIn:** [https://www.linkedin.com/in/guilherme-peliceri-faitarone/](https://www.linkedin.com/in/guilherme-peliceri-faitarone/)
 * **GitHub:** [https://github.com/guipeliceri](https://github.com/guipeliceri)
