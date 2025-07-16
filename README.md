@@ -51,5 +51,5 @@ Para ver uma cópia desta licença, visite [http://creativecommons.org/licenses/
 
 Resumo e análise realizados por **Guilherme Peliceri Faitarone**.
 
-* **LinkedIn:** [https://www.linkedin.com/in/seu-usuario-aqui/](https://www.linkedin.com/in/guilherme-peliceri-faitarone/)
-* **GitHub:** [https://github.com/seu-usuario-aqui](https://github.com/guipeliceri)
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-peliceri-faitarone/](https://www.linkedin.com/in/guilherme-peliceri-faitarone/)
+* **GitHub:** [https://github.com/guipeliceri](https://github.com/guipeliceri)
